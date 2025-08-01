@@ -31,7 +31,8 @@ Features
 - No server needed — just upload to Azure
 
   
-HOW I MADE THIS:
+HOW I MADE THIS
+
 1️. Wrote simple HTML files (index.html & 404.html).  
 2️. Created a Storage Account on Azure Portal.  
 3️. Enabled Static Website option.  
