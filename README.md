@@ -15,6 +15,14 @@ Live Demo
 
 URL: https://vaishstorage28.z29.web.core.windows.net/
 
+## 📸 Screenshots
+
+home page
+![index.png](index.png)
+
+error page
+![404.png](404.png)
+
 Features
 
 - Static HTML site hosted on Azure Blob Storage
