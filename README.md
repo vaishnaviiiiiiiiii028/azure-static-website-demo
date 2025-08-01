@@ -6,6 +6,7 @@ It shows how beginners can deploy basic HTML pages to the cloud easily.
 ---
 
 Project Files
+
 MyStaticWebsite
 1. index.html - Home page
 2. 404.html - Custom 404 error page
